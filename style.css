@@ -1,0 +1,42 @@
+button {
+    background-color: #3882f6;
+    color: #f9faf8;
+}
+
+nav ul,li,a {
+    text-decoration: none;
+    list-style: none;
+    color: #f9faf8;
+}
+
+
+.top-page {
+    background-color: #1f2937;
+}
+
+
+
+
+
+
+.hero-section img {
+    width: 300px; 
+}
+
+
+.extra-information img {
+    border: 1px solid #3882f6;
+    border-radius: 7px;
+    width: 200px;
+    height: 200px;
+}
+
+
+/* FOOTER */
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #f9faf8;
+}
