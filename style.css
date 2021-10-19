@@ -131,7 +131,7 @@ nav li {
     flex-direction: row;
 }
 
-.half-section .box-zero {
+.half-section {
     display: flex;
 }
 
