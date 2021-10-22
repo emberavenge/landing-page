@@ -71,7 +71,7 @@
   /* Middle section */
   .middle-sec {
     display: flex;
-    gap: 50%;
+    gap: 25%;
     align-items: center;
     justify-content: center;
     padding: 40px 0;
@@ -83,8 +83,8 @@
   }
 
   .middle-sec img {
-    max-width: 100%;
-    border: 1px solid white;
+    height: 100%;
+    width: 100%;
   }
   
   .middle-sec h1{
