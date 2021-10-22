@@ -70,7 +70,6 @@
 
   /* Middle section */
   .middle-sec {
-    border: 1px solid red;
     display: flex;
     gap: 50%;
     align-items: center;
